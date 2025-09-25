@@ -1,18 +1,3 @@
 {
-  "tokens": [
-    "8333312427:AAHIvW39l2egftCr8r-2UWldxmiTHoxOSlI",
-    "7610855748:AAEQLDN3PViDVxjjo4d_73XKcb6r1G6FSfM",
-    {
-      "id": "w5sed9",
-      "token": "8231649238:AAG0ek6iVIZPIoc-e6_JyDF5B_JqrT1eZ3g",
-      "type": "P",
-      "owner": "7344071902"
-    },
-    {
-      "id": "rwl4kdgb",
-      "token": "8231649238:AAG0ek6iVIZPIoc-e6_JyDF5B_JqrT1eZ3g",
-      "type": "RESS",
-      "owner": "7344071902"
-    }
-  ]
+  "tokens": []
 }
